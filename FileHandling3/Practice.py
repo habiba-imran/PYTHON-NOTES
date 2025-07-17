@@ -10,3 +10,6 @@ f2.truncate(10)
 # keeps the first 10 characters and deletes the rest
 
 
+
+
+
