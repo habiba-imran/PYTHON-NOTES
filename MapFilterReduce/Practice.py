@@ -27,3 +27,5 @@ sum = reduce(lambda x, y: x + y, numbers)
 print(sum)
 # takes 1+2 adds them = 3, then 3+4 = 7 and so on
 # we are reducing the list, 1 and 2 is reduced to 3
+
+
