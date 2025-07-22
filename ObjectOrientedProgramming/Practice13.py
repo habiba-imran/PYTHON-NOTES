@@ -14,5 +14,3 @@ class Dog(Animal):
 d1 = Dog()
 d1.make_sound() # prints bark
 d1.eat() # prints some food
-
-
