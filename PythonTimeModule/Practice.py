@@ -1,5 +1,5 @@
 import time
-print(time.time())  # Prints time from Jan 1, 1970 in seconds
+print(time.time())  # Prints time from 1st Jan, 1970 in seconds
 def usingWhile():
     i = 0
     while i < 50001:
