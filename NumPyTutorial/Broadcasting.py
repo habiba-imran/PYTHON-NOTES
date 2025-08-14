@@ -24,4 +24,10 @@ print(a + b)
 # b.shape = (1, 4)   # 1 row, 4 cols
 # Broadcast to (3, 4)
 
+# a = np.array([1, 2, 3])
+# b = np.array([1, 2])
+# a + b  # ❌ ValueError: shapes (3,) and (2,) not aligned
+
+
+
 
