@@ -47,3 +47,4 @@ print(arr13)
 arr14 = np.random.randint(10, 100, 2)
 print(arr14) # prints 2 random numbers between 10 and 100
 
+
