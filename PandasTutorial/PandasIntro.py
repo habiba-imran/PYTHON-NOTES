@@ -23,9 +23,10 @@ print(s.index) # prints RangeIndex(start=0, stop=5, step=1)
 print(s.name) # prints header, rn prints None, because there is no name assigned
 s.name = "numbers"
 print(s.name, "\n") # numbers
-
 print(s) # series printed with numbers as name
 
 # 2. dataframe: 2d, multiple columns and rows
 #       heterogenous structure, multiple data types in a single col
 #       size mutable: we can easily add or delete a row or col
+
+w
