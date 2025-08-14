@@ -3,9 +3,9 @@
 import numpy as np
 a = np.array([1, 2, 3])
 b = np.array([4, 5, 6])
-print(a + b)
-print(a - b)
-print(b - a)
+print(a + b) # sum
+print(a - b) # difference
+print(b - a) # difference
 print(a / b) # for float division
 print(a // b) # for integer division
 print(a * b) # [ 4 10 18]
