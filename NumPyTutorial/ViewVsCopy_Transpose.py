@@ -26,8 +26,14 @@ print(arr.transpose()) # prints the transpose
 arr = np.array([[1, 2, 3],
                 [4, 5, 6]])
 print("Original:\n", arr)
-print("Shape:", arr.shape)
-swapped = np.swapaxes(arr, 0, 1)
+print("Shape:", arr.shape) # prinst 2, 3
+swapped = np.swapaxes(arr, 0, 1) # 0->2, 1->3 in shape of original array
 print("\nSwapped:\n", swapped)
-print("Shape:", swapped.shape)
+print("Shape:", swapped.shape) # prints 2, 3
+# array was initially 2 rows 3 cols
+# after swapping it became 3 row 2 col
+# can also be performed for 3d array
+
+
+
 
