@@ -31,3 +31,6 @@ arr = np.array([1, 2, 3, 4, 5, 6, 7])
 print(np.cumsum(arr)) # [ 1  3  6 10 15 21 28]
 # peoduct
 print(np.cumprod(arr)) # [   1    2    6   24  120  720 5040]
+
+
+
