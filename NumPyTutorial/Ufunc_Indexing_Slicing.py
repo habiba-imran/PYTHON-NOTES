@@ -57,3 +57,6 @@ for idx, x in np.ndenumerate(arr):
     print(idx, x) # prints index alongwith the value
 
 
+    
+
+

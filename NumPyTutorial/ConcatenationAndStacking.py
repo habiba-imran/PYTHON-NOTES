@@ -28,3 +28,4 @@ print(np.stack((a, b), axis=0)) # axis = 0, row wise, axis = 1, col wise
 # [3 4]]
 #  [[5 6] 
 # [7 8]]]
+
